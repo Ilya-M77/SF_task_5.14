@@ -1,6 +1,6 @@
 # **ИНСТРУКЦИЯ ПО РАБОТЕ С GIT**
 
-![git-logo](./assets/Git-Logo-2Color.png)
+![git-logo](./assets/git-Logo-2Color.png)
 
 ---
 ### [Система контроля версиями](./git_intro.md)
